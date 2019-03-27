@@ -22,6 +22,6 @@ public class Sequence
    public Sequence append(Sequence other)
    {
       //ADD AND MODIFY CODE HERE
-      return this;
+      return null;
    }
 }
